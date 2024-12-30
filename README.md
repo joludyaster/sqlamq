@@ -19,7 +19,7 @@ SQLAMQ - is a Python based application that connects to the various of supported
 - [MariaDB](https://mariadb.org/)
 - [MS-SQL](https://www.microsoft.com/en-ca/sql-server/sql-server-downloads)
 
-And performs different query selection:
+And performs different query selection in one function depending on passed arguments:
 
 - [Select](https://docs.sqlalchemy.org/en/20/tutorial/data_select.html)
 - [Update](https://docs.sqlalchemy.org/en/20/core/dml.html#sqlalchemy.sql.expression.update)
