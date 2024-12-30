@@ -118,6 +118,8 @@ elif isinstance(result, bool):
   - [order_by](https://docs.sqlalchemy.org/en/20/core/selectable.html#sqlalchemy.sql.expression.Select.order_by)
     - expressions
 
+More coming soon...
+
 ## Example of usage of query methods:
 
 ### Filter
